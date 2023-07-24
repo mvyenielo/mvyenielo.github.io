@@ -18,6 +18,9 @@ a:hover {color: tomato
 a:active {color: white
 }
 
+a {color: inherit;}
+
+
 header nav a {
 margin-right: 10px;
 text-decoration: none;
