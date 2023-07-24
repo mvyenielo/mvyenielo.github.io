@@ -21,11 +21,11 @@ a:active {color: white
 header nav a {
 margin-right: 10px;
 text-decoration: none;
+color: white;
 }
 
 #about {
   padding: 100px 90px;
-
   color: white;
   font-family: 'Didot', serif;
   font-stretch: ultra-expanded;
