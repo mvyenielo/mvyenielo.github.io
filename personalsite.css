@@ -18,7 +18,8 @@ a:hover {color: tomato
 a:active {color: white
 }
 
-a {color: inherit;}
+a {color: inherit;
+  }
 
 
 header nav a {
