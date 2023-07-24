@@ -1,0 +1,82 @@
+
+header {
+  margin-right: 10px;
+  padding: 20px;
+  color: white;
+  font-weight: bold;
+  font-family: 'Didot', serif;
+  font-style: normal;
+  font-variant: small-caps;
+  font-size: 25px;
+  font-stretch: ultra-expanded;
+}
+
+a:visited {color: white
+}
+a:hover {color: tomato
+}
+a:active {color: tomato
+}
+
+header nav a {
+margin-right: 10px;
+text-decoration: none;
+}
+
+#about {
+  padding: 100px 90px;
+
+  color: white;
+  font-family: 'Didot', serif;
+  font-stretch: ultra-expanded;
+  text-align: center;
+  font-size: 18px;
+}
+
+#blurb {
+  padding-top:100px;
+  padding-bottom: 100px;
+}
+
+#about img {
+  width: 300px;
+  height: 300px;
+  border-bottom: 8px solid white;
+  border-right: 8px solid white;
+  border-left: 3px solid white;
+  border-top: 3px solid white;
+}
+
+footer {
+  padding: 80px 10px;
+  text-align: center;
+  font-weight: bold;
+  font-family:'Didot', serif;
+  font-size: 20px;
+  font-stretch: ultra-expanded;
+  color: white;
+}
+
+footer a {
+  text-decoration: none;
+  font-family:'Didot', serif;
+  font-size: 20px;
+  font-stretch: ultra-expanded;
+  color: white;
+  margin-right: 10px;
+}
+
+footer img {
+  height: 50px;
+  width: 50px;
+  text-align: end;
+}
+
+body {
+  background-image: url("001153400022.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  backdrop-filter: brightness(50%);
+  height: 1500px;
+}
